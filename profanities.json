@@ -923,14 +923,6 @@
     "severity": 3
   },
   {
-    "id": "clusterfuck",
-    "match": "clusterfuck|cluster-fuck|cluster fuck",
-    "tags": [
-      "general"
-    ],
-    "severity": 4
-  },
-  {
     "id": "cock",
     "match": "cock",
     "tags": [
@@ -1707,39 +1699,7 @@
   },
   {
     "id": "fuck",
-    "match": "fuck|fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king",
-    "tags": [
-      "general"
-    ],
-    "severity": 4
-  },
-  {
-    "id": "fuckhead",
-    "match": "fuckhead|fuckheads",
-    "tags": [
-      "general"
-    ],
-    "severity": 4
-  },
-  {
-    "id": "fucktard",
-    "match": "fucktard|fucktards",
-    "tags": [
-      "general"
-    ],
-    "severity": 4
-  },
-  {
-    "id": "fuckwad",
-    "match": "fuckwad|fuckwads",
-    "tags": [
-      "general"
-    ],
-    "severity": 4
-  },
-  {
-    "id": "fuckwit",
-    "match": "fuckwit|fuckwits|fuckwhit|fuck-wit",
+    "match": "fuck|fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king|clusterfuck|cluster-fuck|cluster fuck|fuckhead|fuckheads|fucktard|fucktard|fuckwad|fuckwads|fuckwit|fuckwits|fuckwhit|fuck-wit",
     "tags": [
       "general"
     ],

@@ -1912,28 +1912,6 @@
     "severity": 3
   },
   {
-    "id": "hell",
-    "match": "hell",
-    "tags": [
-      "religious"
-    ],
-    "severity": 1,
-    "exceptions": [
-      "*cat",
-      "*er",
-      "*fire",
-      "*kite",
-      "*ed",
-      "*en",
-      "*ion",
-      "*ish",
-      "*o",
-      "ec*e",
-      "p*",
-      "s*"
-    ]
-  },
-  {
     "id": "hermie",
     "match": "hermie",
     "tags": [

@@ -1699,7 +1699,7 @@
   },
   {
     "id": "fuck",
-    "match": "fuck|fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king|clusterfuck|cluster-fuck|cluster fuck|fuckhead|fuckheads|fucktard|fucktard|fuckwad|fuckwads|fuckwit|fuckwits|fuckwhit|fuck-wit",
+    "match": "fuck|f**k|fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king|clusterfuck|cluster-fuck|cluster fuck|fuckhead|fuckheads|fucktard|fucktard|fuckwad|fuckwads|fuckwit|fuckwits|fuckwhit|fuck-wit",
     "tags": [
       "general"
     ],

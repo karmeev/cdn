@@ -1,107 +1,108 @@
 [
   {
     "id": "1man1jar",
-    "match": "1m1j|1man1jar|1 man 1 jar|one man one jar|one jar one man",
-    "tags": [
-      "shock"
+    "match": [
+      "1m1j",
+      "1man1jar",
+      "1 man 1 jar",
+      "one man one jar",
+      "one jar one man"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "2girls1cup",
-    "match": "2g1c|2girls1cup|2 girls 1 cup|two girls one cup|one cup two girls",
-    "tags": [
-      "shock"
+    "match": [
+      "2g1c",
+      "2girls1cup",
+      "2 girls 1 cup",
+      "two girls one cup",
+      "one cup two girls"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "acrotomophilia",
-    "match": "acrotomophilia|acrotomophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "acrotomophilia",
+      "acrotomophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "adjective-cock",
-    "match": "black cock|big cock|huge cock|giant cock|massive cock|throbbing cock",
-    "tags": [
-      "sexual"
+    "match": [
+      "black cock",
+      "big cock",
+      "huge cock",
+      "giant cock",
+      "massive cock",
+      "throbbing cock"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "alabama-hot-pocket",
-    "match": "alabama hot pocket",
-    "tags": [
-      "sexual"
+    "match": [
+      "alabama hot pocket"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "alabama-tuna-melt",
-    "match": "alabama tuna melt",
-    "tags": [
-      "sexual"
+    "match": [
+      "alabama tuna melt"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "alaskan-pipeline",
-    "match": "alaskan pipeline",
-    "tags": [
-      "sexual"
+    "match": [
+      "alaskan pipeline"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "algophilia",
-    "match": "algophilia|algophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "algophilia",
+      "algophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "anal",
-    "match": "anal",
-    "tags": [
-      "sexual"
+    "match": [
+      "anal"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "anal-assassin",
-    "match": "anal assassin",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "anal assassin"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "anal-astronaut",
-    "match": "anal astronaut",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "anal astronaut"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "anilingus",
-    "match": "anilingus",
-    "tags": [
-      "sexual"
+    "match": [
+      "anilingus"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "anus",
-    "match": "anus",
-    "tags": [
-      "sexual"
+    "match": [
+      "anus"
     ],
-    "severity": 1,
     "exceptions": [
       "m*",
       "m*cript",
@@ -114,27 +115,26 @@
   },
   {
     "id": "apeshit",
-    "match": "apeshit|ape-shit|ape shit",
-    "tags": [
-      "general"
+    "match": [
+      "apeshit",
+      "ape-shit",
+      "ape shit"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "apotemnophilia",
-    "match": "apotemnophilia|apotemnophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "apotemnophilia",
+      "apotemnophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "arse",
-    "match": "arse",
-    "tags": [
-      "sexual"
+    "match": [
+      "arse"
     ],
-    "severity": 2,
     "exceptions": [
       "*n",
       "cath*",
@@ -149,187 +149,183 @@
   },
   {
     "id": "arsehole",
-    "match": "arseho*le|ass*ho*le",
-    "tags": [
-      "general"
+    "match": [
+      "arseho*le",
+      "ass*ho*le"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ass",
-    "match": "ass",
-    "tags": [
-      "sexual"
+    "match": [
+      "ass"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "ass-bandit",
-    "match": "ass bandit|arse bandit",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "ass bandit",
+      "arse bandit"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "autoerotic|auto erotic",
-    "match": "autoerotic|auto erotic",
-    "tags": [
-      "sexual"
+    "match": [
+      "autoerotic",
+      "auto erotic"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "babeland",
-    "match": "babeland",
-    "tags": [
-      "sexual"
+    "match": [
+      "babeland"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "baby-batter",
-    "match": "baby batter|baby gravy|baby juice|ball batter|ball gravy",
-    "tags": [
-      "sexual"
+    "match": [
+      "baby batter",
+      "baby gravy",
+      "baby juice",
+      "ball batter",
+      "ball gravy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ball-gag",
-    "match": "ball gag|ball-gag|ballgag",
-    "tags": [
-      "sexual"
+    "match": [
+      "ball gag",
+      "ball-gag",
+      "ballgag"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ball-kicking",
-    "match": "ball kicking|ball-kicking",
-    "tags": [
-      "sexual"
+    "match": [
+      "ball kicking",
+      "ball-kicking"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ball-licking",
-    "match": "ball licking|ball-licking",
-    "tags": [
-      "sexual"
+    "match": [
+      "ball licking",
+      "ball-licking"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ball-sack",
-    "match": "ball sack",
-    "tags": [
-      "sexual"
+    "match": [
+      "ball sack"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ball-sucking",
-    "match": "ball sucking|ball-sucking",
-    "tags": [
-      "sexual"
+    "match": [
+      "ball sucking",
+      "ball-sucking"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ballcuzi",
-    "match": "ballcuzi",
-    "tags": [
-      "sexual"
+    "match": [
+      "ballcuzi"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bangbros",
-    "match": "bangbros|bang bros",
-    "tags": [
-      "sexual"
+    "match": [
+      "bangbros",
+      "bang bros"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bangbus",
-    "match": "bangbus|bang bus",
-    "tags": [
-      "sexual"
+    "match": [
+      "bangbus",
+      "bang bus"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bareback",
-    "match": "bareback",
-    "tags": [
-      "sexual"
+    "match": [
+      "bareback"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "barely-legal",
-    "match": "barely legal",
-    "tags": [
-      "sexual"
+    "match": [
+      "barely legal"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "bastard",
-    "match": "ba*sta*rd",
-    "tags": [
-      "general"
+    "match": [
+      "ba*sta*rd"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bastinado",
-    "match": "bastinado",
-    "tags": [
-      "sexual"
+    "match": [
+      "bastinado"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "batty-boy",
-    "match": "batty boy|battyboy|batty boi|battyboi",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "batty boy",
+      "battyboy",
+      "batty boi",
+      "battyboi"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bdsm",
-    "match": "bdsm",
-    "tags": [
-      "sexual"
+    "match": [
+      "bdsm"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bean-flicker",
-    "match": "bean flicker|bean-flicker|beanflicker",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bean flicker",
+      "bean-flicker",
+      "beanflicker"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bean-queen",
-    "match": "bean queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bean queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "beaner",
-    "match": "beaner|beaners",
-    "tags": [
-      "racial"
+    "match": [
+      "beaner",
+      "beaners"
     ],
-    "severity": 3,
     "exceptions": [
       "*ies",
       "*y"
@@ -337,54 +333,48 @@
   },
   {
     "id": "beastiality",
-    "match": "beastiality|beestiality|bestiality",
-    "tags": [
-      "sexual"
+    "match": [
+      "beastiality",
+      "beestiality",
+      "bestiality"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "beaver-cleaver",
-    "match": "beaver cleaver",
-    "tags": [
-      "sexual"
+    "match": [
+      "beaver cleaver"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "beaver-lips",
-    "match": "beaver lips",
-    "tags": [
-      "sexual"
+    "match": [
+      "beaver lips"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bellend",
-    "match": "bell*end",
-    "tags": [
-      "general"
+    "match": [
+      "bell*end"
     ],
-    "severity": 3,
     "exceptions": [
       "*en"
     ]
   },
   {
     "id": "bellesa",
-    "match": "bellesa",
-    "tags": [
-      "sexual"
+    "match": [
+      "bellesa"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bicon",
-    "match": "bicon",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bicon"
     ],
-    "severity": 3,
     "exceptions": [
       "*cave",
       "*cavities",
@@ -396,99 +386,98 @@
   },
   {
     "id": "big-boobs",
-    "match": "big boobs|big breasts|big knockers|big tits",
-    "tags": [
-      "sexual"
+    "match": [
+      "big boobs",
+      "big breasts",
+      "big knockers",
+      "big tits"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "birdlock",
-    "match": "birdlock",
-    "tags": [
-      "sexual"
+    "match": [
+      "birdlock"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bitch",
-    "match": "bi*tch|bi*tches|bitches",
-    "tags": [
-      "general"
+    "match": [
+      "bi*tch",
+      "bi*tches",
+      "bitches"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bloody",
-    "match": "bloody",
-    "tags": [
-      "general"
+    "match": [
+      "bloody"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "blow-your-load",
-    "match": "blow your load",
-    "tags": [
-      "sexual"
+    "match": [
+      "blow your load"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "blowjob",
-    "match": "blowjob|blow-job|blow job",
-    "tags": [
-      "sexual"
+    "match": [
+      "blowjob",
+      "blow-job",
+      "blow job"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "blue-waffle",
-    "match": "blue waffle|bluewaffle",
-    "tags": [
-      "shock"
+    "match": [
+      "blue waffle",
+      "bluewaffle"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "blumpkin",
-    "match": "blumpkin",
-    "tags": [
-      "sexual"
+    "match": [
+      "blumpkin"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bollocks",
-    "match": "bo*ll*o*cks",
-    "tags": [
-      "sexual"
+    "match": [
+      "bo*ll*o*cks"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "bone-smuggler",
-    "match": "bone smuggler|bone-smuggler|bonesmuggler",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bone smuggler",
+      "bone-smuggler",
+      "bonesmuggler"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "boner",
-    "match": "boner|raging boner|throbbing boner",
-    "tags": [
-      "sexual"
+    "match": [
+      "boner",
+      "raging boner",
+      "throbbing boner"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "boob",
-    "match": "boo*b",
-    "tags": [
-      "sexual"
+    "match": [
+      "boo*b"
     ],
-    "severity": 1,
     "exceptions": [
       "*ird",
       "*oo"
@@ -496,86 +485,82 @@
   },
   {
     "id": "booty-buffer",
-    "match": "booty buffer|booty-buffer",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "booty buffer",
+      "booty-buffer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "booty-call",
-    "match": "booty call",
-    "tags": [
-      "sexual"
+    "match": [
+      "booty call"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "boston-george",
-    "match": "boston george",
-    "tags": [
-      "sexual"
+    "match": [
+      "boston george"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "breasts",
-    "match": "breasts",
-    "tags": [
-      "sexual"
+    "match": [
+      "breasts"
     ],
-    "severity": 1,
     "exceptions": [
       "*troke"
     ]
   },
   {
     "id": "brown-piper",
-    "match": "brown piper|brown-piper|brownpiper",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "brown piper",
+      "brown-piper",
+      "brownpiper"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "brown-shower",
-    "match": "brown shower|brown showers",
-    "tags": [
-      "sexual"
+    "match": [
+      "brown shower",
+      "brown showers"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "brownie-royalty",
-    "match": "brownie king|brownie queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "brownie king",
+      "brownie queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "buddhahead",
-    "match": "buddhahead|buddha head|buddha-head",
-    "tags": [
-      "racial"
+    "match": [
+      "buddhahead",
+      "buddha head",
+      "buddha-head"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bufter",
-    "match": "bufter|bufty",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bufter",
+      "bufty"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bugger",
-    "match": "bugg*er",
-    "tags": [
-      "general"
+    "match": [
+      "bugg*er"
     ],
-    "severity": 1,
     "exceptions": [
       "de*",
       "hum*"
@@ -583,187 +568,201 @@
   },
   {
     "id": "bukkake",
-    "match": "bukkake",
-    "tags": [
-      "sexual"
+    "match": [
+      "bukkake"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bulldyke",
-    "match": "bulldyke",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bulldyke"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bullet-vibe",
-    "match": "bullet vibe|bullet vibrator",
-    "tags": [
-      "sexual"
+    "match": [
+      "bullet vibe",
+      "bullet vibrator"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bullshit",
-    "match": "bullshit|bull-shit|bull shit",
-    "tags": [
-      "general"
+    "match": [
+      "bullshit",
+      "bull-shit",
+      "bull shit"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "bum-chum",
-    "match": "bum chum|bum-chum|bumchum",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bum chum",
+      "bum-chum",
+      "bumchum"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "bum-driller",
-    "match": "bum driller|bum-driller|bumdriller",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "bum driller",
+      "bum-driller",
+      "bumdriller"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-boy",
-    "match": "butt boy|butt-boy|buttboy|bum boy|bum-boy|bumboy",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt boy",
+      "butt-boy",
+      "buttboy",
+      "bum boy",
+      "bum-boy",
+      "bumboy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-pilot",
-    "match": "butt pilot|bum pilot",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt pilot",
+      "bum pilot"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-pirate",
-    "match": "butt pirate|butt-pirate|bum pirate|bum-pirate",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt pirate",
+      "butt-pirate",
+      "bum pirate",
+      "bum-pirate"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-rider",
-    "match": "butt rider|buttrider|bum rider|bumrider",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt rider",
+      "buttrider",
+      "bum rider",
+      "bumrider"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-robber",
-    "match": "butt robber|butt-robber|buttrobber|bum robber|bum-robber|bumrobber",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt robber",
+      "butt-robber",
+      "buttrobber",
+      "bum robber",
+      "bum-robber",
+      "bumrobber"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butt-rustler",
-    "match": "butt rustler|bum rustler",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butt rustler",
+      "bum rustler"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "butthole-engineer",
-    "match": "butthole engineer|bumhole engineer",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "butthole engineer",
+      "bumhole engineer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "camel-jockey",
-    "match": "camel jockey|cameljockey|camel jockies|cameljockies",
-    "tags": [
-      "racial"
+    "match": [
+      "camel jockey",
+      "cameljockey",
+      "camel jockies",
+      "cameljockies"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "camel-toe",
-    "match": "camel toe",
-    "tags": [
-      "sexual"
+    "match": [
+      "camel toe"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "canadian-porch-swing",
-    "match": "canadian porch swing",
-    "tags": [
-      "sexual"
+    "match": [
+      "canadian porch swing"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "carpet-muncher",
-    "match": "carpet muncher|carpetmuncher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "carpet muncher",
+      "carpetmuncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cheese-monkey",
-    "match": "cheese-eating surrender monkey|cheese eating surrender monkey",
-    "tags": [
-      "racial"
+    "match": [
+      "cheese-eating surrender monkey",
+      "cheese eating surrender monkey"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "chi-chi-man",
-    "match": "chi chi man|chi-chi man",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "chi chi man",
+      "chi-chi man"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "chicken-queen",
-    "match": "chicken queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "chicken queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "chinaman",
-    "match": "chinaman|china man|chinamen|china men",
-    "tags": [
-      "racial"
+    "match": [
+      "chinaman",
+      "china man",
+      "chinamen",
+      "china men"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "ching-chong",
-    "match": "ching-chong|ching chong",
-    "tags": [
-      "racial"
+    "match": [
+      "ching-chong",
+      "ching chong"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "chink",
-    "match": "chink|chinks|chinky",
-    "tags": [
-      "racial"
+    "match": [
+      "chink",
+      "chinks",
+      "chinky"
     ],
-    "severity": 3,
     "exceptions": [
       "*apin",
       "*apins",
@@ -777,27 +776,25 @@
   },
   {
     "id": "chocolate-rosebud",
-    "match": "chocolate rosebud|chocolate rosebuds",
-    "tags": [
-      "sexual"
+    "match": [
+      "chocolate rosebud",
+      "chocolate rosebuds"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cholerophilia",
-    "match": "cholerophilia|cholerophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "cholerophilia",
+      "cholerophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "christ",
-    "match": "chri*st",
-    "tags": [
-      "religious"
+    "match": [
+      "chri*st"
     ],
-    "severity": 1,
     "exceptions": [
       "*en",
       "*ian",
@@ -807,75 +804,68 @@
   },
   {
     "id": "cialis",
-    "match": "cialis",
-    "tags": [
-      "sexual"
+    "match": [
+      "cialis"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "circlejerk",
-    "match": "circlejerk|circle-jerk",
-    "tags": [
-      "sexual"
+    "match": [
+      "circlejerk",
+      "circle-jerk"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cishet",
-    "match": "cishet",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "cishet"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cissy",
-    "match": "cissy|cissie",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "cissy",
+      "cissie"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "claustrophilia",
-    "match": "claustrophilia|claustrophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "claustrophilia",
+      "claustrophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cleveland-accordion",
-    "match": "cleveland accordion",
-    "tags": [
-      "sexual"
+    "match": [
+      "cleveland accordion"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cleveland-hot-waffle",
-    "match": "cleveland hot waffle",
-    "tags": [
-      "sexual"
+    "match": [
+      "cleveland hot waffle"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cleveland-steamer",
-    "match": "cleveland steamer",
-    "tags": [
-      "sexual"
+    "match": [
+      "cleveland steamer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "clit",
-    "match": "clit",
-    "tags": [
-      "sexual"
+    "match": [
+      "clit"
     ],
-    "severity": 3,
     "exceptions": [
       "*ella",
       "*ellum",
@@ -900,35 +890,31 @@
   },
   {
     "id": "clitoris",
-    "match": "cli*tori*s",
-    "tags": [
-      "sexual"
+    "match": [
+      "cli*tori*s"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "clover-clamps",
-    "match": "clover clamps|clover clamp",
-    "tags": [
-      "sexual"
+    "match": [
+      "clover clamps",
+      "clover clamp"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "clunge",
-    "match": "clu*nge",
-    "tags": [
-      "sexual"
+    "match": [
+      "clu*nge"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cock",
-    "match": "cock",
-    "tags": [
-      "sexual"
+    "match": [
+      "cock"
     ],
-    "severity": 2,
     "exceptions": [
       "*ade",
       "*aded",
@@ -1090,43 +1076,40 @@
   },
   {
     "id": "cockpipe-cosmonaut",
-    "match": "cockpipe cosmonaut",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "cockpipe cosmonaut"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cockstruction-worker",
-    "match": "cockstruction worker",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "cockstruction worker"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "coimetrophilia",
-    "match": "coimetrophilia|coimetrophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "coimetrophilia",
+      "coimetrophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "collaring",
-    "match": "collaring|collared",
-    "tags": [
-      "sexual"
+    "match": [
+      "collaring",
+      "collared"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "coon",
-    "match": "coon|coons",
-    "tags": [
-      "racial"
+    "match": [
+      "coon",
+      "coons"
     ],
-    "severity": 3,
     "exceptions": [
       "barra*",
       "coc*",
@@ -1145,35 +1128,32 @@
   },
   {
     "id": "coprophilia",
-    "match": "coprophilia|coprophile|coprolagnia",
-    "tags": [
-      "sexual"
+    "match": [
+      "coprophilia",
+      "coprophile",
+      "coprolagnia"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cornhole",
-    "match": "cornhole",
-    "tags": [
-      "sexual"
+    "match": [
+      "cornhole"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "crafty-butcher",
-    "match": "crafty butcher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "crafty butcher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "crap",
-    "match": "cra*p",
-    "tags": [
-      "general"
+    "match": [
+      "cra*p"
     ],
-    "severity": 1,
     "exceptions": [
       "*e",
       "*ing",
@@ -1185,126 +1165,127 @@
   },
   {
     "id": "creampie",
-    "match": "creampie|cream-pie",
-    "tags": [
-      "sexual"
+    "match": [
+      "creampie",
+      "cream-pie"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cum",
-    "match": "cum",
-    "tags": [
-      "sexual"
+    "match": [
+      "cum"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cumming",
-    "match": "cumming",
-    "tags": [
-      "sexual"
+    "match": [
+      "cumming"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cumshot",
-    "match": "cumshot|cumshots|cum shot|cum shots",
-    "tags": [
-      "sexual"
+    "match": [
+      "cumshot",
+      "cumshots",
+      "cum shot",
+      "cum shots"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cunnilingus",
-    "match": "cunnilingus",
-    "tags": [
-      "sexual"
+    "match": [
+      "cunnilingus"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "cunt",
-    "match": "cu*n*t|ku*nt|cunts|kunts",
-    "tags": [
-      "general"
+    "match": [
+      "cu*n*t",
+      "ku*nt",
+      "cunts",
+      "kunts"
     ],
-    "severity": 4,
     "exceptions": [
       "s*horpe"
     ]
   },
   {
     "id": "cuntboy",
-    "match": "cuntboy|cunt-boy|cunt boy",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "cuntboy",
+      "cunt-boy",
+      "cunt boy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "curry-muncher",
-    "match": "curry muncher|curry-muncher|currymuncher",
-    "tags": [
-      "racial"
+    "match": [
+      "curry muncher",
+      "curry-muncher",
+      "currymuncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "damn",
-    "match": "da*mn",
-    "tags": [
-      "religious"
+    "match": [
+      "da*mn"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "darkie",
-    "match": "darkie|darkies|darky|darkey",
-    "tags": [
-      "racial"
+    "match": [
+      "darkie",
+      "darkies",
+      "darky",
+      "darkey"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "date-rape",
-    "match": "date rape|daterape",
-    "tags": [
-      "sexual"
+    "match": [
+      "date rape",
+      "daterape"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "ddlg",
-    "match": "ddlg",
-    "tags": [
-      "sexual"
+    "match": [
+      "ddlg"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "deep-throat",
-    "match": "deep throat|deep-throat|deepthroat",
-    "tags": [
-      "sexual"
+    "match": [
+      "deep throat",
+      "deep-throat",
+      "deepthroat"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dendrophilia",
-    "match": "dendrophilia|dendrophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "dendrophilia",
+      "dendrophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dick",
-    "match": "di*ck",
-    "tags": [
-      "sexual"
+    "match": [
+      "di*ck"
     ],
-    "severity": 2,
     "exceptions": [
       "*cissel",
       "*en",
@@ -1316,163 +1297,161 @@
   },
   {
     "id": "dickgirl",
-    "match": "dickgirl|dick-girl|dick girl",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "dickgirl",
+      "dick-girl",
+      "dick girl"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dildo",
-    "match": "dildo|dildos",
-    "tags": [
-      "sexual"
+    "match": [
+      "dildo",
+      "dildos"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dingleberry",
-    "match": "dingleberry|dingleberries",
-    "tags": [
-      "general"
+    "match": [
+      "dingleberry",
+      "dingleberries"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "dipsea",
-    "match": "dipsea",
-    "tags": [
-      "sexual"
+    "match": [
+      "dipsea"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dirty-pillows",
-    "match": "dirty pillows",
-    "tags": [
-      "sexual"
+    "match": [
+      "dirty pillows"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dirty-sanchez",
-    "match": "dirty sanchez",
-    "tags": [
-      "sexual"
+    "match": [
+      "dirty sanchez"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dishabiliophilia",
-    "match": "dishabiliophilia|dishabiliophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "dishabiliophilia",
+      "dishabiliophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "doggie-style",
-    "match": "doggie style|doggie-style|doggiestyle|doggy style|doggy-style|doggystyle|dog style",
-    "tags": [
-      "sexual"
+    "match": [
+      "doggie style",
+      "doggie-style",
+      "doggiestyle",
+      "doggy style",
+      "doggy-style",
+      "doggystyle",
+      "dog style"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dogshit",
-    "match": "dogshit|dog-shit|dog shit",
-    "tags": [
-      "general"
+    "match": [
+      "dogshit",
+      "dog-shit",
+      "dog shit"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "dolcett",
-    "match": "dolcett",
-    "tags": [
-      "sexual"
+    "match": [
+      "dolcett"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "domination",
-    "match": "domination",
-    "tags": [
-      "sexual"
+    "match": [
+      "domination"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dominatrix",
-    "match": "dominatrix|domme|dommes",
-    "tags": [
-      "sexual"
+    "match": [
+      "dominatrix",
+      "domme",
+      "dommes"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "donkey-punch",
-    "match": "donkey punch",
-    "tags": [
-      "sexual"
+    "match": [
+      "donkey punch"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "donut-muncher",
-    "match": "donut muncher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "donut muncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "donut-puncher",
-    "match": "donut puncher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "donut puncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "double-penetration",
-    "match": "double penetration|dp action",
-    "tags": [
-      "sexual"
+    "match": [
+      "double penetration",
+      "dp action"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dry-hump",
-    "match": "dry hump",
-    "tags": [
-      "sexual"
+    "match": [
+      "dry hump"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dune-coon",
-    "match": "dune coon|dune-coon|doon coon|dooncoon",
-    "tags": [
-      "racial"
+    "match": [
+      "dune coon",
+      "dune-coon",
+      "doon coon",
+      "dooncoon"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dutch-rudder",
-    "match": "dutch rudder",
-    "tags": [
-      "sexual"
+    "match": [
+      "dutch rudder"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "dyke",
-    "match": "dyke",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "dyke"
     ],
-    "severity": 3,
     "exceptions": [
       "van*",
       "van*d",
@@ -1481,51 +1460,51 @@
   },
   {
     "id": "dystychiphilia",
-    "match": "dystychiphilia|dystychiphile",
-    "tags": [
-      "sexual"
+    "match": [
+      "dystychiphilia",
+      "dystychiphile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "edgeplay",
-    "match": "edgeplay|edge play",
-    "tags": [
-      "sexual"
+    "match": [
+      "edgeplay",
+      "edge play"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ejaculate",
-    "match": "ejaculate|ejaculation|ejaculating|ejaculated",
-    "tags": [
-      "sexual"
+    "match": [
+      "ejaculate",
+      "ejaculation",
+      "ejaculating",
+      "ejaculated"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "electro-play",
-    "match": "electro-play|electroplay",
-    "tags": [
-      "sexual"
+    "match": [
+      "electro-play",
+      "electroplay"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "emetophilia",
-    "match": "emetophilia|emetophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "emetophilia",
+      "emetophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "enby",
-    "match": "enby",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "enby"
     ],
-    "severity": 3,
     "exceptions": [
       "all*",
       "as*",
@@ -1547,27 +1526,24 @@
   },
   {
     "id": "eskimo-trebuchet",
-    "match": "eskimo trebuchet",
-    "tags": [
-      "sexual"
+    "match": [
+      "eskimo trebuchet"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "eyetie",
-    "match": "eyetie|eye-tie",
-    "tags": [
-      "racial"
+    "match": [
+      "eyetie",
+      "eye-tie"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "fag",
-    "match": "fa*g",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "fa*g"
     ],
-    "severity": 3,
     "exceptions": [
       "lea*e",
       "lea*es",
@@ -1579,267 +1555,291 @@
   },
   {
     "id": "fag-bomb",
-    "match": "fag bomb|fag-bomb|fagbomb",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "fag bomb",
+      "fag-bomb",
+      "fagbomb"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "faggot",
-    "match": "fa*gg*o*t|fagot",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "fa*gg*o*t",
+      "fagot"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "felch",
-    "match": "felch|felching",
-    "tags": [
-      "sexual"
+    "match": [
+      "felch",
+      "felching"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "fellatio",
-    "match": "fellatio|fellating",
-    "tags": [
-      "sexual"
+    "match": [
+      "fellatio",
+      "fellating"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "female-squirting",
-    "match": "female squirting",
-    "tags": [
-      "sexual"
+    "match": [
+      "female squirting"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "figging",
-    "match": "figging",
-    "tags": [
-      "sexual"
+    "match": [
+      "figging"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "fingerbang",
-    "match": "fingerbang|finger bang|fingerbanging",
-    "tags": [
-      "sexual"
+    "match": [
+      "fingerbang",
+      "finger bang",
+      "fingerbanging"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "fingering",
-    "match": "fingering|fingered",
-    "tags": [
-      "sexual"
+    "match": [
+      "fingering",
+      "fingered"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "finocchio",
-    "match": "finocchio|finochio|finoccio",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "finocchio",
+      "finochio",
+      "finoccio"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "fisting",
-    "match": "fisting|fisted",
-    "tags": [
-      "sexual"
+    "match": [
+      "fisting",
+      "fisted"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "footjob",
-    "match": "footjob|foot-job|foot job",
-    "tags": [
-      "sexual"
+    "match": [
+      "footjob",
+      "foot-job",
+      "foot job"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "french-rudder",
-    "match": "french rudder",
-    "tags": [
-      "sexual"
+    "match": [
+      "french rudder"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "frogeater",
-    "match": "frogeater|frog-eater|frog eater",
-    "tags": [
-      "racial"
+    "match": [
+      "frogeater",
+      "frog-eater",
+      "frog eater"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "frolicme",
-    "match": "frolicme|frolic me",
-    "tags": [
-      "sexual"
+    "match": [
+      "frolicme",
+      "frolic me"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "frotting",
-    "match": "frotting|frottage",
-    "tags": [
-      "sexual"
+    "match": [
+      "frotting",
+      "frottage"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "fuck",
-    "match": "fuck|f**k|fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king|clusterfuck|cluster-fuck|cluster fuck|fuckhead|fuckheads|fucktard|fucktard|fuckwad|fuckwads|fuckwit|fuckwits|fuckwhit|fuck-wit",
-    "tags": [
-      "general"
+    "match": [
+      "fuck",
+      "f**k",
+      "fu*c*k",
+      "fucks",
+      "fu*c*ken",
+      "fu*c*ker",
+      "fu*ckers",
+      "fu*c*kin",
+      "fu*c*king",
+      "clusterfuck",
+      "cluster-fuck",
+      "cluster fuck",
+      "fuckhead",
+      "fuckheads",
+      "fucktard",
+      "fucktard",
+      "fuckwad",
+      "fuckwads",
+      "fuckwit",
+      "fuckwits",
+      "fuckwhit",
+      "fuck-wit"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "fudge-packer",
-    "match": "fudge packer|fudge-packer|fudgepacker",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "fudge packer",
+      "fudge-packer",
+      "fudgepacker"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "futanari",
-    "match": "futanari",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "futanari"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "g-spot",
-    "match": "g-spot",
-    "tags": [
-      "sexual"
+    "match": [
+      "g-spot"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gangbang",
-    "match": "gangbang|gang bang",
-    "tags": [
-      "sexual"
+    "match": [
+      "gangbang",
+      "gang bang"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gay-sex",
-    "match": "gay sex",
-    "tags": [
-      "sexual"
+    "match": [
+      "gay sex"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gaysian",
-    "match": "gaysian",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "gaysian"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "genitals",
-    "match": "genitals",
-    "tags": [
-      "sexual"
+    "match": [
+      "genitals"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "genitorture",
-    "match": "genitorture",
-    "tags": [
-      "sexual"
+    "match": [
+      "genitorture"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gerontophilia",
-    "match": "gerontophilia|gerontophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "gerontophilia",
+      "gerontophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gin-jockey",
-    "match": "gin jockey|gin jocky",
-    "tags": [
-      "racial"
+    "match": [
+      "gin jockey",
+      "gin jocky"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "girl-on-top",
-    "match": "girl on top",
-    "tags": [
-      "sexual"
+    "match": [
+      "girl on top"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "goatse",
-    "match": "goatse|goatcx",
-    "tags": [
-      "shock"
+    "match": [
+      "goatse",
+      "goatcx"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "god-damn",
-    "match": "god damn|god-damn|goddamn|god damned|god-damned|goddamned",
-    "tags": [
-      "religious"
+    "match": [
+      "god damn",
+      "god-damn",
+      "goddamn",
+      "god damned",
+      "god-damned",
+      "goddamned"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "gokkun",
-    "match": "gokkun|go-kun",
-    "tags": [
-      "sexual"
+    "match": [
+      "gokkun",
+      "go-kun"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "golden-shower",
-    "match": "golden shower|golden showers|yellow shower|yellow showers",
-    "tags": [
-      "sexual"
+    "match": [
+      "golden shower",
+      "golden showers",
+      "yellow shower",
+      "yellow showers"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "golliwog",
-    "match": "golliwog|gollywog",
-    "tags": [
-      "racial"
+    "match": [
+      "golliwog",
+      "gollywog"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "gook",
-    "match": "gook|gooks|gook-eye|gooky|gookie",
-    "tags": [
-      "racial"
+    "match": [
+      "gook",
+      "gooks",
+      "gook-eye",
+      "gooky",
+      "gookie"
     ],
-    "severity": 3,
     "exceptions": [
       "gobblede*",
       "gobblede*s",
@@ -1849,75 +1849,71 @@
   },
   {
     "id": "goregasm",
-    "match": "goregasm",
-    "tags": [
-      "sexual"
+    "match": [
+      "goregasm"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "greaseball",
-    "match": "greaseball",
-    "tags": [
-      "racial"
+    "match": [
+      "greaseball"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "grey-queen",
-    "match": "grey queen|gray queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "grey queen",
+      "gray queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "grope",
-    "match": "grope",
-    "tags": [
-      "sexual"
+    "match": [
+      "grope"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "group-sex",
-    "match": "group sex",
-    "tags": [
-      "sexual"
+    "match": [
+      "group sex"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "gym-bunny",
-    "match": "gym bunny|gymbunny",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "gym bunny",
+      "gymbunny"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "hajji",
-    "match": "haji|hajj*i|hadji",
-    "tags": [
-      "racial"
+    "match": [
+      "haji",
+      "hajj*i",
+      "hadji"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "hand-job",
-    "match": "hand job|hand-job|handjob",
-    "tags": [
-      "sexual"
+    "match": [
+      "hand job",
+      "hand-job",
+      "handjob"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "hermie",
-    "match": "hermie",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "hermie"
     ],
-    "severity": 3,
     "exceptions": [
       "diat*s",
       "endot*s",
@@ -1926,83 +1922,79 @@
   },
   {
     "id": "hickory-switch",
-    "match": "hickory switch",
-    "tags": [
-      "sexual"
+    "match": [
+      "hickory switch"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "hippophilia",
-    "match": "hippophilia|hippophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "hippophilia",
+      "hippophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "homoerotic",
-    "match": "homoerotic",
-    "tags": [
-      "sexual"
+    "match": [
+      "homoerotic"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "honkey",
-    "match": "honkey|honky|honkeys|honkies",
-    "tags": [
-      "racial"
+    "match": [
+      "honkey",
+      "honky",
+      "honkeys",
+      "honkies"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "horny",
-    "match": "horny",
-    "tags": [
-      "sexual"
+    "match": [
+      "horny"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "horseshit",
-    "match": "horseshit|horse-shit|horse shit",
-    "tags": [
-      "general"
+    "match": [
+      "horseshit",
+      "horse-shit",
+      "horse shit"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "hot-carl",
-    "match": "hot carl",
-    "tags": [
-      "sexual"
+    "match": [
+      "hot carl"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "hot-richard",
-    "match": "hot richard",
-    "tags": [
-      "sexual"
+    "match": [
+      "hot richard"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "humping",
-    "match": "humping",
-    "tags": [
-      "sexual"
+    "match": [
+      "humping"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "hymie",
-    "match": "hymie|heimie",
-    "tags": [
-      "racial"
+    "match": [
+      "hymie",
+      "heimie"
     ],
-    "severity": 2,
     "exceptions": [
       "alc*s",
       "prings*ella",
@@ -2012,51 +2004,47 @@
   },
   {
     "id": "impact-play",
-    "match": "impact play|impact-play",
-    "tags": [
-      "sexual"
+    "match": [
+      "impact play",
+      "impact-play"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "incest",
-    "match": "incest",
-    "tags": [
-      "sexual"
+    "match": [
+      "incest"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "intercourse",
-    "match": "intercourse",
-    "tags": [
-      "sexual"
+    "match": [
+      "intercourse"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "jack-off",
-    "match": "jack off|jack-off",
-    "tags": [
-      "sexual"
+    "match": [
+      "jack off",
+      "jack-off"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "jail-bait",
-    "match": "jail bait|jailbait",
-    "tags": [
-      "sexual"
+    "match": [
+      "jail bait",
+      "jailbait"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "jap",
-    "match": "jap",
-    "tags": [
-      "racial"
+    "match": [
+      "jap"
     ],
-    "severity": 1,
     "exceptions": [
       "*an",
       "*anize",
@@ -2089,142 +2077,130 @@
   },
   {
     "id": "jelly-donut",
-    "match": "jelly donut",
-    "tags": [
-      "sexual"
+    "match": [
+      "jelly donut"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "jerk-off",
-    "match": "jerk off|jerk-off",
-    "tags": [
-      "sexual"
+    "match": [
+      "jerk off",
+      "jerk-off"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "jerkmate",
-    "match": "jerkmate|jerk mate",
-    "tags": [
-      "sexual"
+    "match": [
+      "jerkmate",
+      "jerk mate"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "jesus",
-    "match": "je*su*s",
-    "tags": [
-      "religious"
+    "match": [
+      "je*su*s"
     ],
-    "severity": 1,
     "exceptions": [
       "be*"
     ]
   },
   {
     "id": "jesus-christ",
-    "match": "je*su*s chri*st",
-    "tags": [
-      "religious"
+    "match": [
+      "je*su*s chri*st"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "jigaboo",
-    "match": "jig*aboo*|jig*gerboo*",
-    "tags": [
-      "racial"
+    "match": [
+      "jig*aboo*",
+      "jig*gerboo*"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "jizz",
-    "match": "jizz",
-    "tags": [
-      "sexual"
+    "match": [
+      "jizz"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "juggs",
-    "match": "juggs",
-    "tags": [
-      "sexual"
+    "match": [
+      "juggs"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "jungle-bunny",
-    "match": "jungle bunny|junglebunny",
-    "tags": [
-      "racial"
+    "match": [
+      "jungle bunny",
+      "junglebunny"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "kennebunkport-surprise",
-    "match": "kennebunkport surprise",
-    "tags": [
-      "sexual"
+    "match": [
+      "kennebunkport surprise"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kentucky-klondike",
-    "match": "kentucky klondike",
-    "tags": [
-      "sexual"
+    "match": [
+      "kentucky klondike"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kentucky-tractor-puller",
-    "match": "kentucky tractor puller",
-    "tags": [
-      "sexual"
+    "match": [
+      "kentucky tractor puller"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kike",
-    "match": "ki*ke",
-    "tags": [
-      "racial"
+    "match": [
+      "ki*ke"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kinbaku",
-    "match": "kinbaku",
-    "tags": [
-      "sexual"
+    "match": [
+      "kinbaku"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kitty-puncher",
-    "match": "kitty puncher|kitty-puncher|kittypuncher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "kitty puncher",
+      "kitty-puncher",
+      "kittypuncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "knobbing",
-    "match": "knobbing",
-    "tags": [
-      "sexual"
+    "match": [
+      "knobbing"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "kraut",
-    "match": "kraut|krauts",
-    "tags": [
-      "racial"
+    "match": [
+      "kraut",
+      "krauts"
     ],
-    "severity": 1,
     "exceptions": [
       "sauer*s",
       "sauer*"
@@ -2232,59 +2208,55 @@
   },
   {
     "id": "kynophilia",
-    "match": "kynophilia|kynophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "kynophilia",
+      "kynophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "lady-boy",
-    "match": "lady boy|lady-boy|ladyboy",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "lady boy",
+      "lady-boy",
+      "ladyboy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "leather-restraint",
-    "match": "leather restraint",
-    "tags": [
-      "sexual"
+    "match": [
+      "leather restraint"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "leather-straight-jacket",
-    "match": "leather straight jacket",
-    "tags": [
-      "sexual"
+    "match": [
+      "leather straight jacket"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "lemon-party",
-    "match": "lemon party|lemonparty",
-    "tags": [
-      "shock"
+    "match": [
+      "lemon party",
+      "lemonparty"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "leningrad-steamer",
-    "match": "leningrad steamer",
-    "tags": [
-      "sexual"
+    "match": [
+      "leningrad steamer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "lesbo",
-    "match": "lesbo",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "lesbo"
     ],
-    "severity": 3,
     "exceptions": [
       "*s",
       "b*k",
@@ -2293,11 +2265,9 @@
   },
   {
     "id": "leso",
-    "match": "leso",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "leso"
     ],
-    "severity": 3,
     "exceptions": [
       "bung*me",
       "chuck*me",
@@ -2324,561 +2294,554 @@
   },
   {
     "id": "lezzie",
-    "match": "lezzie|lezzies",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "lezzie",
+      "lezzies"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "light-fedora",
-    "match": "light in the fedora",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "light in the fedora"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "light-loafers",
-    "match": "light in the loafers",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "light in the loafers"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "light-pants",
-    "match": "light in the pants",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "light in the pants"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "limp-wristed",
-    "match": "limp wristed|limp-wristed",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "limp wristed",
+      "limp-wristed"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "literotica",
-    "match": "literotica",
-    "tags": [
-      "sexual"
+    "match": [
+      "literotica"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "lovemaking",
-    "match": "lovemaking",
-    "tags": [
-      "sexual"
+    "match": [
+      "lovemaking"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "male-squirting",
-    "match": "male squirting|male-squirting",
-    "tags": [
-      "sexual"
+    "match": [
+      "male squirting",
+      "male-squirting"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "masturbate",
-    "match": "ma*stu*rbate|ma*stu*rb8|masturbation|masturbating|masterbate|masterb8",
-    "tags": [
-      "sexual"
+    "match": [
+      "ma*stu*rbate",
+      "ma*stu*rb8",
+      "masturbation",
+      "masturbating",
+      "masterbate",
+      "masterb8"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "mayonnaise-monkey",
-    "match": "mayonnaise monkey|mayonnaise monkies",
-    "tags": [
-      "racial"
+    "match": [
+      "mayonnaise monkey",
+      "mayonnaise monkies"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "mdlb",
-    "match": "mdlb",
-    "tags": [
-      "sexual"
+    "match": [
+      "mdlb"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "meat-masseuse",
-    "match": "meat masseuse",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "meat masseuse"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "meatspin",
-    "match": "meatspin|meat spin",
-    "tags": [
-      "shock"
+    "match": [
+      "meatspin",
+      "meat spin"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "menage-a-trois",
-    "match": "menage a trois|menage-a-trois|menages a trois|menages-a-trois",
-    "tags": [
-      "sexual"
+    "match": [
+      "menage a trois",
+      "menage-a-trois",
+      "menages a trois",
+      "menages-a-trois"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "menophilia",
-    "match": "menophilia|menophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "menophilia",
+      "menophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "mexican-pancake",
-    "match": "mexican pancake",
-    "tags": [
-      "sexual"
+    "match": [
+      "mexican pancake"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "milwaukee-blizzard",
-    "match": "milwaukee blizzard",
-    "tags": [
-      "sexual"
+    "match": [
+      "milwaukee blizzard"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "missionary-position",
-    "match": "missionary position",
-    "tags": [
-      "sexual"
+    "match": [
+      "missionary position"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "mississippi-birdbath",
-    "match": "mississippi birdbath",
-    "tags": [
-      "sexual"
+    "match": [
+      "mississippi birdbath"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "mr-hands",
-    "match": "mr. hands|mr hands|mrhands",
-    "tags": [
-      "shock"
+    "match": [
+      "mr. hands",
+      "mr hands",
+      "mrhands"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "muff-diver",
-    "match": "muff diver|muff-diver|muffdiver",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "muff diver",
+      "muff-diver",
+      "muffdiver"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "muffdiving",
-    "match": "muffdiving|muff diving|muffdiver|muff diver",
-    "tags": [
-      "sexual"
+    "match": [
+      "muffdiving",
+      "muff diving",
+      "muffdiver",
+      "muff diver"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "muscle-mary",
-    "match": "muscle mary",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "muscle mary"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "mvtube",
-    "match": "mvtube",
-    "tags": [
-      "sexual"
+    "match": [
+      "mvtube"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nambla",
-    "match": "nambla",
-    "tags": [
-      "sexual"
+    "match": [
+      "nambla"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "necrophilia",
-    "match": "necrophilia|necrophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "necrophilia",
+      "necrophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "negro",
-    "match": "negro",
-    "tags": [
-      "racial"
+    "match": [
+      "negro"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "neonazi",
-    "match": "neonazi|neo-nazi|neo nazi",
-    "tags": [
-      "racial"
+    "match": [
+      "neonazi",
+      "neo-nazi",
+      "neo nazi"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "nigerian-hurricane",
-    "match": "nigerian hurricane",
-    "tags": [
-      "sexual"
+    "match": [
+      "nigerian hurricane"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nigga",
-    "match": "ni*gg*a|ni*gg*s|nignog|nig nog|niggasex",
-    "tags": [
-      "racial"
+    "match": [
+      "ni*gg*a",
+      "ni*gg*s",
+      "nignog",
+      "nig nog",
+      "niggasex"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nigger",
-    "match": "ni*gg*e*r",
-    "tags": [
-      "racial"
+    "match": [
+      "ni*gg*e*r"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "nipple-clamps",
-    "match": "nipple clamps|nipple clamp",
-    "tags": [
-      "sexual"
+    "match": [
+      "nipple clamps",
+      "nipple clamp"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nipples",
-    "match": "nipples|nipple",
-    "tags": [
-      "sexual"
+    "match": [
+      "nipples",
+      "nipple"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "nude",
-    "match": "nude|nudity",
-    "tags": [
-      "sexual"
+    "match": [
+      "nude",
+      "nudity"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nutten",
-    "match": "nutten",
-    "tags": [
-      "sexual"
+    "match": [
+      "nutten"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "nymphomania",
-    "match": "nymphomania|nymphomaniac|nympho|nimphomania|nimphomaniac|nimpho",
-    "tags": [
-      "sexual"
+    "match": [
+      "nymphomania",
+      "nymphomaniac",
+      "nympho",
+      "nimphomania",
+      "nimphomaniac",
+      "nimpho"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "octopussy",
-    "match": "octopussy",
-    "tags": [
-      "sexual"
+    "match": [
+      "octopussy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "oklahomo",
-    "match": "oklahomo",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "oklahomo"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "omorashi",
-    "match": "omorashi",
-    "tags": [
-      "sexual"
+    "match": [
+      "omorashi"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "onlyfans",
-    "match": "onlyfans|only fans",
-    "tags": [
-      "sexual"
+    "match": [
+      "onlyfans",
+      "only fans"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "orgasm",
-    "match": "orgasm|orgasms|orgasmic",
-    "tags": [
-      "sexual"
+    "match": [
+      "orgasm",
+      "orgasms",
+      "orgasmic"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "paedophilia|pedophilia",
-    "match": "paedophilia|pedophilia|paedophile|pedophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "paedophilia",
+      "pedophilia",
+      "paedophile",
+      "pedophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "painslut",
-    "match": "painslut|pain slut",
-    "tags": [
-      "sexual"
+    "match": [
+      "painslut",
+      "pain slut"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "paki",
-    "match": "paki",
-    "tags": [
-      "racial"
+    "match": [
+      "paki"
     ],
-    "severity": 3,
     "exceptions": [
       "*hi"
     ]
   },
   {
     "id": "panamanian-petting-zoo",
-    "match": "panamanian petting zoo",
-    "tags": [
-      "sexual"
+    "match": [
+      "panamanian petting zoo"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pansy",
-    "match": "pansy",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "pansy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "panties",
-    "match": "panties",
-    "tags": [
-      "sexual"
+    "match": [
+      "panties"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "parthenophilia",
-    "match": "parthenophilia|parthenophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "parthenophilia",
+      "parthenophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pedobear",
-    "match": "pedobear|paedobear|pedo bear|paedo bear",
-    "tags": [
-      "sexual"
+    "match": [
+      "pedobear",
+      "paedobear",
+      "pedo bear",
+      "paedo bear"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "pegging",
-    "match": "pegging",
-    "tags": [
-      "sexual"
+    "match": [
+      "pegging"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "penis",
-    "match": "pe*ni*s",
-    "tags": [
-      "sexual"
+    "match": [
+      "pe*ni*s"
     ],
-    "severity": 1,
     "exceptions": [
       "top*h"
     ]
   },
   {
     "id": "peterpuffer",
-    "match": "peterpuffer|peter-puffer|peter puffer",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "peterpuffer",
+      "peter-puffer",
+      "peter puffer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "petrol-sniffer",
-    "match": "petrol sniffer|petrol-sniffer|petrolsniffer",
-    "tags": [
-      "racial"
+    "match": [
+      "petrol sniffer",
+      "petrol-sniffer",
+      "petrolsniffer"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "phagophilia",
-    "match": "phagophilia|phagophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "phagophilia",
+      "phagophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "piece-of-shit",
-    "match": "piece of shit|pieces of shit",
-    "tags": [
-      "general"
+    "match": [
+      "piece of shit",
+      "pieces of shit"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "pikey",
-    "match": "pikey|pikeys",
-    "tags": [
-      "racial"
+    "match": [
+      "pikey",
+      "pikeys"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "piss-off",
-    "match": "pi*ss* off",
-    "tags": [
-      "general"
+    "match": [
+      "pi*ss* off"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "piss-pig",
-    "match": "piss pig|pisspig",
-    "tags": [
-      "sexual"
+    "match": [
+      "piss pig",
+      "pisspig"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "piss-pig",
-    "match": "piss pig|pisspig",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "piss pig",
+      "pisspig"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pissed-off",
-    "match": "pi*ss*ed off",
-    "tags": [
-      "general"
+    "match": [
+      "pi*ss*ed off"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "pissing",
-    "match": "pissing",
-    "tags": [
-      "sexual"
+    "match": [
+      "pissing"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "playboy",
-    "match": "playboy",
-    "tags": [
-      "sexual"
+    "match": [
+      "playboy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pleasure-chest",
-    "match": "pleasure chest",
-    "tags": [
-      "sexual"
+    "match": [
+      "pleasure chest"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pnigerophilia|pnigophilia",
-    "match": "pnigerophilia|pnigophilia|pnigerophile|pnigophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "pnigerophilia",
+      "pnigophilia",
+      "pnigerophile",
+      "pnigophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "poinephilia",
-    "match": "poinephilia|poinephile",
-    "tags": [
-      "sexual"
+    "match": [
+      "poinephilia",
+      "poinephile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ponyboy",
-    "match": "ponyboy|pony-boy|pony boy",
-    "tags": [
-      "sexual"
+    "match": [
+      "ponyboy",
+      "pony-boy",
+      "pony boy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ponygirl",
-    "match": "ponygirl|pony-girl|pony girl",
-    "tags": [
-      "sexual"
+    "match": [
+      "ponygirl",
+      "pony-girl",
+      "pony girl"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ponyplay",
-    "match": "ponyplay|pony-play",
-    "tags": [
-      "sexual"
+    "match": [
+      "ponyplay",
+      "pony-play"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "poof",
-    "match": "poof",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "poof"
     ],
-    "severity": 3,
     "exceptions": [
       "*s",
       "*tah",
@@ -2899,11 +2862,10 @@
   },
   {
     "id": "poon",
-    "match": "poon|poontang",
-    "tags": [
-      "sexual"
+    "match": [
+      "poon",
+      "poontang"
     ],
-    "severity": 3,
     "exceptions": [
       "cram*",
       "cram*s",
@@ -2958,251 +2920,244 @@
   },
   {
     "id": "poop-chute",
-    "match": "poop chute|poopchute",
-    "tags": [
-      "sexual"
+    "match": [
+      "poop chute",
+      "poopchute"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pornhub",
-    "match": "pornhub|porn hub",
-    "tags": [
-      "sexual"
+    "match": [
+      "pornhub",
+      "porn hub"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pornography",
-    "match": "pornography|pornographic|porno|pornos|porn",
-    "tags": [
-      "sexual"
+    "match": [
+      "pornography",
+      "pornographic",
+      "porno",
+      "pornos",
+      "porn"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "potato-queen",
-    "match": "potato queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "potato queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "prince-albert-piercing",
-    "match": "prince albert piercing",
-    "tags": [
-      "sexual"
+    "match": [
+      "prince albert piercing"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "proctophilia",
-    "match": "proctophilia|proctophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "proctophilia",
+      "proctophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pubes",
-    "match": "pubes",
-    "tags": [
-      "sexual"
+    "match": [
+      "pubes"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "punani",
-    "match": "pu*na*ni|punany",
-    "tags": [
-      "sexual"
+    "match": [
+      "pu*na*ni",
+      "punany"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pussy",
-    "match": "pu*ss*y|pussies",
-    "tags": [
-      "general"
+    "match": [
+      "pu*ss*y",
+      "pussies"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "pussy-puncher",
-    "match": "pussy puncher|pussy-puncher|pussypuncher",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "pussy puncher",
+      "pussy-puncher",
+      "pussypuncher"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "queef",
-    "match": "queef|queaf",
-    "tags": [
-      "sexual"
+    "match": [
+      "queef",
+      "queaf"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "quim",
-    "match": "quim",
-    "tags": [
-      "sexual"
+    "match": [
+      "quim"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "raghead",
-    "match": "raghead|rag head|ragheads|rag heads",
-    "tags": [
-      "religious"
+    "match": [
+      "raghead",
+      "rag head",
+      "ragheads",
+      "rag heads"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ramen-yarmulke",
-    "match": "ramen yarmulke",
-    "tags": [
-      "sexual"
+    "match": [
+      "ramen yarmulke"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rape",
-    "match": "rape",
-    "tags": [
-      "sexual"
+    "match": [
+      "rape"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "raping",
-    "match": "raping|rapist",
-    "tags": [
-      "sexual"
+    "match": [
+      "raping",
+      "rapist"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "rectum",
-    "match": "rectum",
-    "tags": [
-      "sexual"
+    "match": [
+      "rectum"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "retard",
-    "match": "retard|retarded",
-    "tags": [
-      "general"
+    "match": [
+      "retard",
+      "retarded"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "reverse-cowgirl",
-    "match": "reverse cowgirl",
-    "tags": [
-      "sexual"
+    "match": [
+      "reverse cowgirl"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rhabdophilia",
-    "match": "rhabdophilia|rhabdophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "rhabdophilia",
+      "rhabdophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rhypophilia",
-    "match": "rhypophilia|rhypophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "rhypophilia",
+      "rhypophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rice-queen",
-    "match": "rice queen",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "rice queen"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rimjob",
-    "match": "rimjob|rimming",
-    "tags": [
-      "sexual"
+    "match": [
+      "rimjob",
+      "rimming"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "ring-raider",
-    "match": "ring raider|ringraider",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "ring raider",
+      "ringraider"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "rusty-trombone",
-    "match": "rusty trombone",
-    "tags": [
-      "sexual"
+    "match": [
+      "rusty trombone"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "sand-nigger",
-    "match": "sand ni*gg*e*r|sand-ni*gg*e*r|sandni*gg*e*r",
-    "tags": [
-      "racial"
+    "match": [
+      "sand ni*gg*e*r",
+      "sand-ni*gg*e*r",
+      "sandni*gg*e*r"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "santorum",
-    "match": "santorum",
-    "tags": [
-      "sexual"
+    "match": [
+      "santorum"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "scatophilia",
-    "match": "scatophilia|scatophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "scatophilia",
+      "scatophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "schlong",
-    "match": "schlong|shlong",
-    "tags": [
-      "sexual"
+    "match": [
+      "schlong",
+      "shlong"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "scissoring",
-    "match": "scissoring",
-    "tags": [
-      "sexual"
+    "match": [
+      "scissoring"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "semen",
-    "match": "semen",
-    "tags": [
-      "sexual"
+    "match": [
+      "semen"
     ],
-    "severity": 1,
     "exceptions": [
       "aba*t",
       "aba*ts",
@@ -3270,59 +3225,56 @@
   },
   {
     "id": "seplophilia",
-    "match": "seplophilia|seplophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "seplophilia",
+      "seplophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "sex",
-    "match": "sex",
-    "tags": [
-      "sexual"
+    "match": [
+      "sex"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "shaved pussy",
-    "match": "shaved pussy|shaved beaver",
-    "tags": [
-      "sexual"
+    "match": [
+      "shaved pussy",
+      "shaved beaver"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "sheepshagger",
-    "match": "sheepshagger|sheep shagger",
-    "tags": [
-      "racial"
+    "match": [
+      "sheepshagger",
+      "sheep shagger"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "shemale",
-    "match": "shemale|she-male|she male",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "shemale",
+      "she-male",
+      "she male"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "shibari",
-    "match": "shibari",
-    "tags": [
-      "sexual"
+    "match": [
+      "shibari"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "shit",
-    "match": "sh*i*t",
-    "tags": [
-      "general"
+    "match": [
+      "sh*i*t"
     ],
-    "severity": 2,
     "exceptions": [
       "*ake",
       "mi*",
@@ -3332,131 +3284,124 @@
   },
   {
     "id": "shithead",
-    "match": "shithead|shit head",
-    "tags": [
-      "general"
+    "match": [
+      "shithead",
+      "shit head"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "shitty",
-    "match": "shi*tt*y",
-    "tags": [
-      "general"
+    "match": [
+      "shi*tt*y"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "shota",
-    "match": "shota",
-    "tags": [
-      "sexual"
+    "match": [
+      "shota"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "shrimping",
-    "match": "shrimping",
-    "tags": [
-      "sexual"
+    "match": [
+      "shrimping"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "sissy",
-    "match": "sissy",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "sissy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "skeet",
-    "match": "skeet",
-    "tags": [
-      "sexual"
+    "match": [
+      "skeet"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "skittles-harvest",
-    "match": "skittles harvest|skittle harvest",
-    "tags": [
-      "sexual"
+    "match": [
+      "skittles harvest",
+      "skittle harvest"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "slanteye",
-    "match": "slanteye|slant-eye|slant eye",
-    "tags": [
-      "racial"
+    "match": [
+      "slanteye",
+      "slant-eye",
+      "slant eye"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "snatch",
-    "match": "snatch",
-    "tags": [
-      "sexual"
+    "match": [
+      "snatch"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "snowballing",
-    "match": "snowballing",
-    "tags": [
-      "sexual"
+    "match": [
+      "snowballing"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "sod-off",
-    "match": "sod off",
-    "tags": [
-      "general"
+    "match": [
+      "sod off"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "sodding",
-    "match": "sodding",
-    "tags": [
-      "general"
+    "match": [
+      "sodding"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "sodomize",
-    "match": "sodomize|sodomise|sodomist|sodomy",
-    "tags": [
-      "sexual"
+    "match": [
+      "sodomize",
+      "sodomise",
+      "sodomist",
+      "sodomy"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "spastic",
-    "match": "spastic",
-    "tags": [
-      "general"
+    "match": [
+      "spastic"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "spearchucker",
-    "match": "spearchucker",
-    "tags": [
-      "racial"
+    "match": [
+      "spearchucker"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "spic",
-    "match": "spic|spics|spick|spicks",
-    "tags": [
-      "racial"
+    "match": [
+      "spic",
+      "spics",
+      "spick",
+      "spicks"
     ],
-    "severity": 3,
     "exceptions": [
       "*a",
       "*ae",
@@ -3553,147 +3498,143 @@
   },
   {
     "id": "spicy-gringo",
-    "match": "spicy gringo",
-    "tags": [
-      "sexual"
+    "match": [
+      "spicy gringo"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "splooge",
-    "match": "splooge|splooge moose|spooge",
-    "tags": [
-      "sexual"
+    "match": [
+      "splooge",
+      "splooge moose",
+      "spooge"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "spunk",
-    "match": "spunk",
-    "tags": [
-      "sexual"
+    "match": [
+      "spunk"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "strap-on",
-    "match": "strap on|strap-on",
-    "tags": [
-      "sexual"
+    "match": [
+      "strap on",
+      "strap-on"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "strap-on",
-    "match": "strap-on|strapon",
-    "tags": [
-      "sexual"
+    "match": [
+      "strap-on",
+      "strapon"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "strappado",
-    "match": "strappado",
-    "tags": [
-      "sexual"
+    "match": [
+      "strappado"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "swamp-guinea",
-    "match": "swamp guinea|swamp-guinea",
-    "tags": [
-      "racial"
+    "match": [
+      "swamp guinea",
+      "swamp-guinea"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "swastika",
-    "match": "swastika|svastika|suastika",
-    "tags": [
-      "racial"
+    "match": [
+      "swastika",
+      "svastika",
+      "suastika"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "switch-hitter",
-    "match": "switch hitter",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "switch hitter"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "t-girl",
-    "match": "t-girl|tgirl",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "t-girl",
+      "tgirl"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "taphephilia",
-    "match": "taphephilia|taphephile",
-    "tags": [
-      "sexual"
+    "match": [
+      "taphephilia",
+      "taphephile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "tea-bagging",
-    "match": "tea bagging|tea-bagging|tea bagged|tea-bagged",
-    "tags": [
-      "sexual"
+    "match": [
+      "tea bagging",
+      "tea-bagging",
+      "tea bagged",
+      "tea-bagged"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "thanatophilia",
-    "match": "thanatophilia|thanatophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "thanatophilia",
+      "thanatophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "threesome",
-    "match": "threesome",
-    "tags": [
-      "sexual"
+    "match": [
+      "threesome"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "throating",
-    "match": "throating",
-    "tags": [
-      "sexual"
+    "match": [
+      "throating"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "thumbzilla",
-    "match": "thumbzilla",
-    "tags": [
-      "sexual"
+    "match": [
+      "thumbzilla"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "timber-nigger",
-    "match": "timber ni*gg*e*r|timber-ni*gg*e*r|timberni*gg*e*r",
-    "tags": [
-      "racial"
+    "match": [
+      "timber ni*gg*e*r",
+      "timber-ni*gg*e*r",
+      "timberni*gg*e*r"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "tits",
-    "match": "tits",
-    "tags": [
-      "sexual"
+    "match": [
+      "tits"
     ],
-    "severity": 2,
     "exceptions": [
       "bush*",
       "pas*",
@@ -3702,83 +3643,79 @@
   },
   {
     "id": "titty",
-    "match": "titt*y|titt*ies",
-    "tags": [
-      "sexual"
+    "match": [
+      "titt*y",
+      "titt*ies"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "topless",
-    "match": "topless",
-    "tags": [
-      "sexual"
+    "match": [
+      "topless"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "tosser",
-    "match": "tosser",
-    "tags": [
-      "general"
+    "match": [
+      "tosser"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "towelhead",
-    "match": "towelhead|towel-head|towel head",
-    "tags": [
-      "racial"
+    "match": [
+      "towelhead",
+      "towel-head",
+      "towel head"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "tranny",
-    "match": "tranny|trannie",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "tranny",
+      "trannie"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "transbian",
-    "match": "transbian",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "transbian"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "traumatophilia",
-    "match": "traumatophilia|traumatophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "traumatophilia",
+      "traumatophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "tribbing",
-    "match": "tribbing|tribadism",
-    "tags": [
-      "sexual"
+    "match": [
+      "tribbing",
+      "tribadism"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "tubgirl",
-    "match": "tubgirl|tub girl",
-    "tags": [
-      "shock"
+    "match": [
+      "tubgirl",
+      "tub girl"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "twat",
-    "match": "twa*t",
-    "tags": [
-      "general"
+    "match": [
+      "twa*t"
     ],
-    "severity": 3,
     "exceptions": [
       "cu*er",
       "mel*er",
@@ -3789,11 +3726,9 @@
   },
   {
     "id": "twink",
-    "match": "twink",
-    "tags": [
-      "lgbtq"
+    "match": [
+      "twink"
     ],
-    "severity": 3,
     "exceptions": [
       "*ie",
       "*ies",
@@ -3809,91 +3744,83 @@
   },
   {
     "id": "urethra-play",
-    "match": "urethra play",
-    "tags": [
-      "sexual"
+    "match": [
+      "urethra play"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "urophilia",
-    "match": "urophilia|urophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "urophilia",
+      "urophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "vagina",
-    "match": "vagina",
-    "tags": [
-      "sexual"
+    "match": [
+      "vagina"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "venus-mound",
-    "match": "venus mound|mound of venus",
-    "tags": [
-      "sexual"
+    "match": [
+      "venus mound",
+      "mound of venus"
     ],
-    "severity": 1
+    "exceptions": null
   },
   {
     "id": "viagra",
-    "match": "viagra",
-    "tags": [
-      "sexual"
+    "match": [
+      "viagra"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "vibrator",
-    "match": "vibrator",
-    "tags": [
-      "sexual"
+    "match": [
+      "vibrator"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "violet-wand",
-    "match": "violet wand",
-    "tags": [
-      "sexual"
+    "match": [
+      "violet wand"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "vorarephilia",
-    "match": "vorarephilia|vorarephile",
-    "tags": [
-      "sexual"
+    "match": [
+      "vorarephilia",
+      "vorarephile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "voyeurweb",
-    "match": "voyeurweb",
-    "tags": [
-      "sexual"
+    "match": [
+      "voyeurweb"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wagon-burner",
-    "match": "wagon burner|wagon-burner",
-    "tags": [
-      "racial"
+    "match": [
+      "wagon burner",
+      "wagon-burner"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "wank",
-    "match": "wa*nk",
-    "tags": [
-      "sexual"
+    "match": [
+      "wa*nk"
     ],
-    "severity": 2,
     "exceptions": [
       "s*",
       "t*"
@@ -3901,75 +3828,73 @@
   },
   {
     "id": "wanker",
-    "match": "wa*nker",
-    "tags": [
-      "general"
+    "match": [
+      "wa*nker"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "wax-play",
-    "match": "wax play|wax-play",
-    "tags": [
-      "sexual"
+    "match": [
+      "wax play",
+      "wax-play"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wet-dream",
-    "match": "wet dream",
-    "tags": [
-      "sexual"
+    "match": [
+      "wet dream"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wetback",
-    "match": "wetback|wet-back|wet back",
-    "tags": [
-      "racial"
+    "match": [
+      "wetback",
+      "wet-back",
+      "wet back"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "white power",
-    "match": "whitepower|white-power|white power",
-    "tags": [
-      "racial"
+    "match": [
+      "whitepower",
+      "white-power",
+      "white power"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "whore",
-    "match": "who*re",
-    "tags": [
-      "general"
+    "match": [
+      "who*re"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wigger",
-    "match": "wigger|whigger|wigga",
-    "tags": [
-      "racial"
+    "match": [
+      "wigger",
+      "whigger",
+      "wigga"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "wiitwd",
-    "match": "wiitwd",
-    "tags": [
-      "sexual"
+    "match": [
+      "wiitwd"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wog",
-    "match": "wog|wogs",
-    "tags": [
-      "racial"
+    "match": [
+      "wog",
+      "wogs"
     ],
-    "severity": 1,
     "exceptions": [
       "horns*gle",
       "horns*gled",
@@ -3983,106 +3908,99 @@
   },
   {
     "id": "wolfbagging",
-    "match": "wolfbagging",
-    "tags": [
-      "sexual"
+    "match": [
+      "wolfbagging"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "worldsex",
-    "match": "worldsex",
-    "tags": [
-      "sexual"
+    "match": [
+      "worldsex"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wrapping-men",
-    "match": "wrapping men",
-    "tags": [
-      "sexual"
+    "match": [
+      "wrapping men"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "wrinkled-starfish",
-    "match": "wrinkled starfish",
-    "tags": [
-      "sexual"
+    "match": [
+      "wrinkled starfish"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "xhamster",
-    "match": "xhamster",
-    "tags": [
-      "sexual"
+    "match": [
+      "xhamster"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "xnxx",
-    "match": "xnxx",
-    "tags": [
-      "sexual"
+    "match": [
+      "xnxx"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "xtube",
-    "match": "xtube",
-    "tags": [
-      "sexual"
+    "match": [
+      "xtube"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "xvideos",
-    "match": "xvideos",
-    "tags": [
-      "sexual"
+    "match": [
+      "xvideos"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "xxx",
-    "match": "xxx",
-    "tags": [
-      "sexual"
+    "match": [
+      "xxx"
     ],
-    "severity": 2
+    "exceptions": null
   },
   {
     "id": "xyrophilia",
-    "match": "xyrophilia|xyrophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "xyrophilia",
+      "xyrophile"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "zipperhead",
-    "match": "zipperhead|zipper-head|zipper head",
-    "tags": [
-      "racial"
+    "match": [
+      "zipperhead",
+      "zipper-head",
+      "zipper head"
     ],
-    "severity": 3
+    "exceptions": null
   },
   {
     "id": "zippocat",
-    "match": "zippocat|zippo-cat|zippo cat",
-    "tags": [
-      "shock"
+    "match": [
+      "zippocat",
+      "zippo-cat",
+      "zippo cat"
     ],
-    "severity": 4
+    "exceptions": null
   },
   {
     "id": "zoophilia",
-    "match": "zoophilia|zoophile",
-    "tags": [
-      "sexual"
+    "match": [
+      "zoophilia",
+      "zoophile"
     ],
-    "severity": 3
+    "exceptions": null
   }
 ]
